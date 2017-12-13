@@ -1,0 +1,17 @@
+---
+title: "Template for a Working Paper"
+author: "Luis Giraldo, Harold A."
+date: "13 de diciembre de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+ Practicing the usage of RMarkdown...
+ 
+ $e^{i\pi} + 1 = 0$
+ 
+ We see above, a good looking formula.
