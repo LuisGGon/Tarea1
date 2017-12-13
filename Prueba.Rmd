@@ -1,0 +1,20 @@
+---
+title: "Prueba"
+author: "Luis Giraldo"
+date: "December 13, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Primera parte del ejercicio
+
+Aquí vamos a escribir cosas de texto, y a poner unas listas
+
+
+## Segunda parte del ejercicio
+
+Aquí vamos a escribir fórmulas es $\LaTeX$.
+
