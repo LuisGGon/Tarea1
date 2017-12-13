@@ -1,6 +1,6 @@
 ---
 title: "Prueba"
-author: "Luis Giraldo"
+author: "Luis Giraldo, Harold A."
 date: "December 13, 2017"
 output: html_document
 ---
@@ -17,4 +17,3 @@ Aquí vamos a escribir cosas de texto, y a poner unas listas
 ## Segunda parte del ejercicio
 
 Aquí vamos a escribir fórmulas es $\LaTeX$.
-
